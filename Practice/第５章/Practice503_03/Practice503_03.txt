@@ -1,0 +1,8 @@
+public class Practice503_03 {
+	static int aaa;
+	int bbb;
+
+	public void YYY() {
+		int ccc;
+	}
+}

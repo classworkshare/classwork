@@ -1,0 +1,21 @@
+public class NPasocom {
+
+	String maker;
+	String modelNo;
+	String cpuType;
+	int memorySize;
+	int diskSize;
+	int batteryCapa;
+	
+	public void arithm() {
+		System.out.println("‰‰Z‚µ‚Ü‚µ‚½");
+	}
+	
+	public void videoPlay() {
+		System.out.println("“®‰æ‚ğÄ¶‚µ‚Ü‚µ‚½");
+	}
+	
+	public void carry() {
+		System.out.println("‚¿‰^‚Ñ’†‚Å‚·");
+	}
+}
