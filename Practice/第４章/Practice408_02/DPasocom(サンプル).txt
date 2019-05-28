@@ -1,0 +1,21 @@
+public class DPasocom {
+
+	String maker;
+	String modelNo;
+	String cpuType;
+	String blu_ray;
+	int memorySize;
+	int diskSize;
+	
+	public void arithm() {
+		System.out.println("‰‰Z‚µ‚Ü‚µ‚½");
+	}
+	
+	public void videoPlay() {
+		System.out.println("“®‰æ‚ğÄ¶‚µ‚Ü‚µ‚½");
+	}
+	
+	public void tvRecord() {
+		System.out.println("ƒeƒŒƒr˜^‰æ’†‚Å‚·");
+	}
+}
